@@ -25,7 +25,7 @@
 
 ### Desktop Aplication
 
- [Monitoring]
+ [Application Of Ground Conrol Station For Low Speed EDF Rocket]
  <img src="images/gcs.PNG?raw=true"/>
 
 
