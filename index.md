@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Mobile Application
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[QRen - Payment Code Platform based on QR (Quick Response)](/pdf/QRen.pdf)
+<img src="images/QRen.pngg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
