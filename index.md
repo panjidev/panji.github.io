@@ -5,7 +5,7 @@
 ### Mobile Application
 
 [QRen - Payment Code Platform based on QR (Quick Response)](/pdf/QRen.pdf)
-<img src="images/QRen.pngg?raw=true"/>
+<img src="images/QRen.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
